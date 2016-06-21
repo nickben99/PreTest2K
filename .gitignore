@@ -1,0 +1,9 @@
+.vs/
+archive/
+x64/
+PreTest2KVS2015/x64/
+
+*.sdf
+*.suo
+*.db
+*.user
